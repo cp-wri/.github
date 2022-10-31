@@ -35,5 +35,5 @@ dapat mengikutsertakan teman - teman pada lomba competitive programming dan menj
 ## Authors
 
 - [Ali Zulfikar - WRI 9 - 2021](https://www.github.com/alizul01)
-- [Tio Irawan - WRI 9 - 2921](https://www.github.com/indmind)
-
+- [Tio Irawan - WRI 9 - 2021](https://www.github.com/indmind)
+- [Ilzam - WRI 9 - 2021](https://www.github.com/4RSIM3R)
